@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaCircle } from "react-icons/fa6";
+
 const Navbar = () => {
   return (
     <nav className='flex items-center gap-5 text-2xl'>
